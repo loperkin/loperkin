@@ -114,6 +114,36 @@ The goal is room-by-room airflow management using temperature data from sensors 
 
 ---
 
+### 🖨️ 3D Printing Workshop
+
+A dedicated space for my 3D printing projects, equipment, materials, experiments, and lessons learned.
+
+I use a **Bambu Lab A1**, primarily printing with **Bambu PETG Basic and PETG Translucent**.
+
+Most of my printing focuses on functional parts rather than decorative objects. Electronics enclosures, brackets, mounts, adapters, and the occasional household fix are all fair game.
+
+The workshop includes:
+
+- My 3D printing equipment and accessories
+- Bambu Lab A1 printer setup
+- Filament and material recommendations
+- BIQU CryoGrip Pro Glacier build plate
+- Original 3D-printable designs and modifications
+- Project files and build documentation
+- Print settings and troubleshooting
+- Equipment recommendations and purchasing links
+
+Some designs are part of my other electronics projects, while others are standalone prints.
+
+The goal is to share what I'm using, what I'm making, and what I've learned along the way.
+
+Because sometimes the difference between a working prototype and a finished project is a decent 3D-printed enclosure.
+
+**Repository:**  
+[3D Printing Workshop](https://github.com/loperkin/3D-Printing-Workshop)
+
+---
+
 ### 🎙️ Micro Wake Word
 
 Experiments with custom wake-word models for local voice control and Home Assistant.
@@ -207,6 +237,11 @@ Open source works because people build on ideas, improve them, and share what th
 ## 🎬 Purpose in Practice
 
 These GitHub repositories are the build files, code, documentation, and technical side of the larger **Purpose in Practice** project.
+
+You can also follow along on YouTube for project demonstrations, tutorials, experiments, and the occasional failure along the way.
+
+**YouTube:**  
+[Purpose in Practice](https://www.youtube.com/@PurposeinPracticeCh)
 
 The broader goal is simple:
 
