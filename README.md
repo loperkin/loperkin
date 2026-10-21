@@ -262,3 +262,5 @@ Then find the next thing you're curious about.
 ### Learn it. Build it. Put it into practice.
 
 *Purpose in Practice*
+
+<p>Impact-Site-Verification: 9ef5a46b-c329-446b-8b85-5b979050675c</p>
