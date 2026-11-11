@@ -18,6 +18,29 @@ That's part of the point.
 
 ---
 
+## 📚 Explore My Repositories
+
+Welcome to the workshop! Whether you're looking for a complete DIY project, Home Assistant automation, 3D-printable parts, or help choosing the right technology, there's probably something here worth exploring.
+
+| Repository | What You'll Find |
+|---|---|
+| 🏠 [ESPHome MultiSensor](https://github.com/loperkin/ESPHome-MultiSensor-presence-light-temp-hum) | Room presence, light, temperature, and humidity sensing |
+| 🔌 [ESPHome MultiSensor Decora](https://github.com/loperkin/ESPHome-MultiSensor-Decora) | Custom PCB and wall-mounted Decora-style sensor |
+| 🔐 [ESPHome Alarmo Keypad](https://github.com/loperkin/another-esphome-alarmo-keypad) | Physical security keypad for Home Assistant and Alarmo |
+| 🌬️ [Yet Another Smart Vent — Additions](https://github.com/loperkin/yet-another-smart-vent-additions) | Smart HVAC airflow control and ESPHome improvements |
+| 🖨️ [3D Printing Workshop](https://github.com/loperkin/3D-Printing-Workshop) | Functional prints, equipment, materials, and build files |
+| 🎙️ [Micro Wake Word](https://github.com/loperkin/micro-wake-word-model) | Custom wake-word models for local voice assistants |
+| ⚖️ [Tech Guides & Comparisons](https://github.com/loperkin/tech-guides-and-comparisons) | Smart home comparisons, buying guides, and practical product recommendations |
+
+### 🔎 Looking for Something Specific?
+
+- **Want to build something?** Explore the ESPHome, smart vent, and 3D printing repositories.
+- **Trying to decide what to buy?** Visit Tech Guides & Comparisons.
+- **Interested in Home Assistant?** Start with the MultiSensor, Alarmo Keypad, or Micro Wake Word projects.
+- **Prefer watching instead of reading?** Visit [Purpose in Practice on YouTube](https://www.youtube.com/@PurposeinPracticeCh).
+
+---
+
 ## 🛠️ What I'm Building
 
 My projects tend to start with a simple question:
@@ -141,6 +164,28 @@ Because sometimes the difference between a working prototype and a finished proj
 
 **Repository:**  
 [3D Printing Workshop](https://github.com/loperkin/3D-Printing-Workshop)
+
+---
+### ⚖️ Tech Guides & Comparisons
+
+Not every project starts with a soldering iron. Sometimes the hardest part is figuring out which technology is actually worth using.
+
+This repository is where I share product comparisons, buying guides, technical breakdowns, and practical recommendations.
+
+You'll find topics like:
+
+- Home Assistant Green vs Raspberry Pi vs Mini PC
+- Alarmo vs Ring Alarm vs SimpliSafe
+- Smart home hardware and ecosystem comparisons
+- Equipment recommendations and buying guides
+- Honest trade-offs, limitations, and lessons learned
+
+My goal isn't to convince you to buy the most expensive option.
+
+It's to help you understand your choices, avoid unnecessary spending, and find what works best for your situation.
+
+**Repository:**  
+[Tech Guides & Comparisons](https://github.com/loperkin/tech-guides-and-comparisons)
 
 ---
 
