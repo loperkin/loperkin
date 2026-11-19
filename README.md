@@ -1,14 +1,28 @@
 # Purpose in Practice
 
-### Turning curiosity into capability.
-
 **Learn it. Build it. Put it into practice.**
+
+## 🚀 Start Here — Quick Links
+
+| Looking for… | Go straight to |
+| --- | --- |
+| 🌐 Website and project walkthroughs | [PIP Builds](https://pipbuilds.com/) |
+| 🧭 New to Home Assistant? | [What Is Home Assistant?](https://pipbuilds.com/guides/what-is-home-assistant/) |
+| 📚 Tutorials and comparisons | [Tech Guides & Comparisons](https://github.com/loperkin/tech-guides-and-comparisons) · [Website guides](https://pipbuilds.com/guides/) |
+| 🛠️ Browse all builds | [Projects directory](https://pipbuilds.com/projects/) |
+| 🎬 Watch the projects | [Purpose in Practice on YouTube](https://www.youtube.com/@PurposeinPracticeCh) |
+
+**Jump to a repository:** [MultiSensor](https://github.com/loperkin/ESPHome-MultiSensor-presence-light-temp-hum) · [Decora Sensor](https://github.com/loperkin/ESPHome-MultiSensor-Decora) · [Alarmo Keypad](https://github.com/loperkin/another-esphome-alarmo-keypad) · [Smart Vent](https://github.com/loperkin/yet-another-smart-vent-additions) · [3D Printing](https://github.com/loperkin/3D-Printing-Workshop) · [Tech Guides](https://github.com/loperkin/tech-guides-and-comparisons) · [Wake Word (retired)](https://github.com/loperkin/micro-wake-word-model)
+
+**On this page:** [Repository directory](#-explore-my-repositories) · [Project details](#️-what-im-building) · [Open source & attribution](#-open-source--attribution)
+
+---
 
 I'm **Lee Perkins** — an IT professional, college instructor, maker, DIYer, and lifelong tinkerer.
 
 I like figuring out how things work, building things that solve real problems, and then sharing what I learned so someone else can build it too.
 
-This GitHub is the technical side of **Purpose in Practice**.
+This GitHub is the technical workshop behind **[Purpose in Practice](https://pipbuilds.com/)**.
 
 You'll find projects involving **ESPHome, Home Assistant, electronics, custom PCBs, 3D printing, home automation, sensors, practical DIY, and whatever else I'm currently trying to make work.**
 
@@ -29,15 +43,9 @@ Welcome to the workshop! Whether you're looking for a complete DIY project, Home
 | 🔐 [ESPHome Alarmo Keypad](https://github.com/loperkin/another-esphome-alarmo-keypad) | Physical security keypad for Home Assistant and Alarmo |
 | 🌬️ [Yet Another Smart Vent — Additions](https://github.com/loperkin/yet-another-smart-vent-additions) | Smart HVAC airflow control and ESPHome improvements |
 | 🖨️ [3D Printing Workshop](https://github.com/loperkin/3D-Printing-Workshop) | Functional prints, equipment, materials, and build files |
-| 🎙️ [Micro Wake Word](https://github.com/loperkin/micro-wake-word-model) | Custom wake-word models for local voice assistants |
+| 🎙️ [Micro Wake Word — completed](https://github.com/loperkin/micro-wake-word-model) | Tested Hey Lucy wake-word model; retired reference project |
 | ⚖️ [Tech Guides & Comparisons](https://github.com/loperkin/tech-guides-and-comparisons) | Smart home comparisons, buying guides, and practical product recommendations |
 
-### 🔎 Looking for Something Specific?
-
-- **Want to build something?** Explore the ESPHome, smart vent, and 3D printing repositories.
-- **Trying to decide what to buy?** Visit Tech Guides & Comparisons.
-- **Interested in Home Assistant?** Start with the MultiSensor, Alarmo Keypad, or Micro Wake Word projects.
-- **Prefer watching instead of reading?** Visit [Purpose in Practice on YouTube](https://www.youtube.com/@PurposeinPracticeCh).
 
 ---
 
@@ -191,9 +199,7 @@ It's to help you understand your choices, avoid unnecessary spending, and find w
 
 ### 🎙️ Micro Wake Word
 
-Experiments with custom wake-word models for local voice control and Home Assistant.
-
-Because apparently giving the house ears was the logical next step.
+A successfully tested **Hey Lucy** micro wake-word model for local voice detection in ESPHome. This experiment is **completed and retired**; its model files and documentation remain available as a reference.
 
 **Repository:**  
 [Micro Wake Word Model](https://github.com/loperkin/micro-wake-word-model)
