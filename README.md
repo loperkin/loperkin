@@ -2,313 +2,81 @@
 
 **Learn it. Build it. Put it into practice.**
 
-## 🚀 Start Here — Quick Links
+## 🚀 Start Here
 
-| Looking for… | Go straight to |
+| What do you want to do? | Start here |
 | --- | --- |
-| 🌐 Website and project walkthroughs | [PIP Builds](https://pipbuilds.com/) |
-| 🧭 New to Home Assistant? | [What Is Home Assistant?](https://pipbuilds.com/guides/what-is-home-assistant/) |
-| 📚 Tutorials and comparisons | [Tech Guides & Comparisons](https://github.com/loperkin/tech-guides-and-comparisons) · [Website guides](https://pipbuilds.com/guides/) |
-| 🛠️ Browse all builds | [Projects directory](https://pipbuilds.com/projects/) |
-| 🎬 Watch the projects | [Purpose in Practice on YouTube](https://www.youtube.com/@PurposeinPracticeCh) |
+| 🌐 Explore projects and step-by-step guides | **[PIP Builds website](https://pipbuilds.com/)** |
+| 🧭 Learn the basics of Home Assistant | [What Is Home Assistant?](https://pipbuilds.com/guides/what-is-home-assistant/) |
+| 📚 Read tutorials and product comparisons | [Website guides](https://pipbuilds.com/guides/) · [Tech Guides GitHub](https://github.com/loperkin/tech-guides-and-comparisons) |
+| 🛠️ Find a DIY build | [Project directory](https://pipbuilds.com/projects/) |
+| 🎬 Watch demos and how-to videos | [Purpose in Practice on YouTube](https://www.youtube.com/@PurposeinPracticeCh) |
 
-**Jump to a repository:** [MultiSensor](https://github.com/loperkin/ESPHome-MultiSensor-presence-light-temp-hum) · [Decora Sensor](https://github.com/loperkin/ESPHome-MultiSensor-Decora) · [Alarmo Keypad](https://github.com/loperkin/another-esphome-alarmo-keypad) · [Smart Vent](https://github.com/loperkin/yet-another-smart-vent-additions) · [3D Printing](https://github.com/loperkin/3D-Printing-Workshop) · [Tech Guides](https://github.com/loperkin/tech-guides-and-comparisons) · [Wake Word (retired)](https://github.com/loperkin/micro-wake-word-model)
+**Jump straight to the code:** [MultiSensor](https://github.com/loperkin/ESPHome-MultiSensor-presence-light-temp-hum) · [Decora Sensor](https://github.com/loperkin/ESPHome-MultiSensor-Decora) · [Alarmo Keypad](https://github.com/loperkin/another-esphome-alarmo-keypad) · [Smart Vent](https://github.com/loperkin/yet-another-smart-vent-additions) · [3D Printing](https://github.com/loperkin/3D-Printing-Workshop) · [Tech Guides](https://github.com/loperkin/tech-guides-and-comparisons) · [Micro Wake Word (retired)](https://github.com/loperkin/micro-wake-word-model)
 
-**On this page:** [Repository directory](#-explore-my-repositories) · [Project details](#️-what-im-building) · [Open source & attribution](#-open-source--attribution)
+**On this page:** [About](#-about-purpose-in-practice) · [Repository directory](#-repository-directory) · [How I build](#-how-i-build-and-share) · [Open source](#-open-source--attribution)
 
 ---
+
+## 👋 About Purpose in Practice
 
 I'm **Lee Perkins** — an IT professional, college instructor, maker, DIYer, and lifelong tinkerer.
 
-I like figuring out how things work, building things that solve real problems, and then sharing what I learned so someone else can build it too.
+**Purpose in Practice** is about making practical skills easier to learn. I build things for real problems, explain what worked (and what didn't), and share enough detail to help others try it themselves. This GitHub is the technical workshop behind [PIP Builds](https://pipbuilds.com/): code, ESPHome configurations, electronics, custom PCBs, 3D-printable parts, and research.
 
-This GitHub is the technical workshop behind **[Purpose in Practice](https://pipbuilds.com/)**.
-
-You'll find projects involving **ESPHome, Home Assistant, electronics, custom PCBs, 3D printing, home automation, sensors, practical DIY, and whatever else I'm currently trying to make work.**
+Whether you're just getting started with Home Assistant or already building your own hardware, you're welcome here.
 
 I don't always start out knowing exactly what I'm doing.
 
-That's part of the point.
+**That's part of the point.**
 
----
+## 📚 Repository Directory
 
-## 📚 Explore My Repositories
+| Project | What you'll find |
+| --- | --- |
+| 🏠 **[ESPHome MultiSensor](https://github.com/loperkin/ESPHome-MultiSensor-presence-light-temp-hum)** | Room presence via mmWave, ambient light, temperature, and humidity sensing for Home Assistant |
+| 🔌 **[ESPHome MultiSensor Decora](https://github.com/loperkin/ESPHome-MultiSensor-Decora)** | A cleaner wall-mounted take on the sensor, with a custom PCB, Decora-style enclosure, and build files |
+| 🔐 **[ESPHome Alarmo Keypad](https://github.com/loperkin/another-esphome-alarmo-keypad)** | Physical 4×4 keypad, OLED status, audible feedback, and Alarmo integration |
+| 🌬️ **[Yet Another Smart Vent — Additions](https://github.com/loperkin/yet-another-smart-vent-additions)** | ESPHome updates, servo control, fail-safe ideas, and printable vent-frame additions |
+| 🖨️ **[3D Printing Workshop](https://github.com/loperkin/3D-Printing-Workshop)** | Functional prints, enclosures, materials, settings, and practical troubleshooting |
+| ⚖️ **[Tech Guides & Comparisons](https://github.com/loperkin/tech-guides-and-comparisons)** | Home Assistant hardware, security, ecosystems, smart lighting, and buying decisions |
+| 🎙️ **[Micro Wake Word — completed/retired](https://github.com/loperkin/micro-wake-word-model)** | Successfully tested Hey Lucy ESPHome wake-word model, preserved as a reference |
 
-Welcome to the workshop! Whether you're looking for a complete DIY project, Home Assistant automation, 3D-printable parts, or help choosing the right technology, there's probably something here worth exploring.
+### A closer look at the builds
 
-| Repository | What You'll Find |
-|---|---|
-| 🏠 [ESPHome MultiSensor](https://github.com/loperkin/ESPHome-MultiSensor-presence-light-temp-hum) | Room presence, light, temperature, and humidity sensing |
-| 🔌 [ESPHome MultiSensor Decora](https://github.com/loperkin/ESPHome-MultiSensor-Decora) | Custom PCB and wall-mounted Decora-style sensor |
-| 🔐 [ESPHome Alarmo Keypad](https://github.com/loperkin/another-esphome-alarmo-keypad) | Physical security keypad for Home Assistant and Alarmo |
-| 🌬️ [Yet Another Smart Vent — Additions](https://github.com/loperkin/yet-another-smart-vent-additions) | Smart HVAC airflow control and ESPHome improvements |
-| 🖨️ [3D Printing Workshop](https://github.com/loperkin/3D-Printing-Workshop) | Functional prints, equipment, materials, and build files |
-| 🎙️ [Micro Wake Word — completed](https://github.com/loperkin/micro-wake-word-model) | Tested Hey Lucy wake-word model; retired reference project |
-| ⚖️ [Tech Guides & Comparisons](https://github.com/loperkin/tech-guides-and-comparisons) | Smart home comparisons, buying guides, and practical product recommendations |
+**MultiSensor → Decora Sensor:** I started with a practical ESPHome room sensor and explored a more permanent, wall-mounted version using a custom PCB and 3D-printed enclosure. The goal is useful room data without a pile of separate devices.
 
+**Alarmo Keypad:** A physical alternative to depending entirely on a wall tablet. The project combines an ESP32-C3 Super Mini, 4×4 keypad, OLED, buzzer, and Home Assistant/Alarmo controls. It began as a project-box prototype and got considerably less janky.
 
----
+**Smart Vent:** My additions build on [BrobstonCreations' original Yet Another Smart Vent](https://github.com/BrobstonCreations/yet-another-smart-vent). I share ESPHome changes, servo behavior, airflow-control ideas, fail-safe logic, and printable frame designs. Credit for the original design belongs to its creator.
 
-## 🛠️ What I'm Building
+**3D Printing Workshop:** I use a Bambu Lab A1 for practical parts—especially electronics enclosures, mounts, brackets, and household fixes. The repository covers equipment, PETG materials, BIQU CryoGrip build-plate experience, print files, and lessons learned.
 
-My projects tend to start with a simple question:
+**Tech Guides:** Not every problem needs another purchase or a soldering iron. I compare options like Home Assistant Green, Raspberry Pi, and mini PCs; security systems; and other smart-home technologies, focusing on trade-offs rather than hype.
+
+**Micro Wake Word:** Hey Lucy was tested successfully, but the project is now **completed and retired**. Its model files and documentation remain public for anyone who finds them useful; it is not an active development project.
+
+## 🔄 How I Build and Share
+
+Most projects start with a simple question:
 
 > **Could I make this work better?**
 
-Sometimes that means building something completely new. Other times it means taking an existing idea, adapting it to solve a problem in my own home, and sharing what I learned.
+My process looks more like **Idea → Build → Test → Find Problem → Fix Problem → Improve → Share** than a perfect first attempt.
 
-### 🏠 ESPHome MultiSensor
+Some builds are polished; others are experiments. I'll explain the difference, document limitations when I know them, and point to the original creator when I'm adapting someone else's work.
 
-An all-in-one room sensor combining:
-
-- mmWave human presence detection
-- Ambient light sensing
-- Temperature
-- Humidity
-- ESPHome
-- Home Assistant integration
-
-This was one of the projects that started the current collection of home automation builds.
-
-**Repository:**  
-[ESPHome MultiSensor - Presence, Light, Temperature & Humidity](https://github.com/loperkin/ESPHome-MultiSensor-presence-light-temp-hum)
-
----
-
-### 🔌 ESPHome MultiSensor Decora
-
-The next evolution of the MultiSensor.
-
-I redesigned the project around a **custom PCB and 3D-printed Decora-style enclosure** to create a cleaner, permanent wall-mounted sensor.
-
-It provides room-level:
-
-- Presence
-- Ambient light
-- Temperature
-- Humidity
-
-The repository includes the firmware, PCB files, printable parts, and Home Assistant automation examples.
-
-**Repository:**  
-[ESPHome MultiSensor Decora](https://github.com/loperkin/ESPHome-MultiSensor-Decora)
-
----
-
-### 🔐 ESPHome Alarmo Keypad
-
-A dedicated physical alarm keypad for **Home Assistant and Alarmo**.
-
-I wanted something simpler and more dependable than relying entirely on a wall-mounted tablet.
-
-The project includes:
-
-- ESP32-C3 Super Mini
-- 4×4 physical keypad
-- OLED status display
-- Audible feedback
-- ESPHome integration
-- Alarmo controls
-- Custom PCB
-- Custom 3D-printed enclosure
-
-It started as a wired prototype stuffed into a project box.
-
-It got considerably less janky from there.
-
-**Repository:**  
-[Another ESPHome Alarmo Keypad](https://github.com/loperkin/another-esphome-alarmo-keypad)
-
----
-
-### 🌬️ Yet Another Smart Vent — Additions
-
-A companion project for the excellent **Yet Another Smart Vent** project by BrobstonCreations.
-
-Their project provides the original smart vent design.
-
-My repository adds:
-
-- Updated configuration for modern ESPHome
-- Home Assistant HVAC control examples
-- Fail-safe logic
-- Servo behavior changes
-- My own additional 3D-printable vent frame designs
-
-The goal is room-by-room airflow management using temperature data from sensors like my MultiSensor.
-
-**Repository:**  
-[Yet Another Smart Vent Additions](https://github.com/loperkin/yet-another-smart-vent-additions)
-
-**Original project:**  
-[BrobstonCreations - Yet Another Smart Vent](https://github.com/BrobstonCreations/yet-another-smart-vent)
-
----
-
-### 🖨️ 3D Printing Workshop
-
-A dedicated space for my 3D printing projects, equipment, materials, experiments, and lessons learned.
-
-I use a **Bambu Lab A1**, primarily printing with **Bambu PETG Basic and PETG Translucent**.
-
-Most of my printing focuses on functional parts rather than decorative objects. Electronics enclosures, brackets, mounts, adapters, and the occasional household fix are all fair game.
-
-The workshop includes:
-
-- My 3D printing equipment and accessories
-- Bambu Lab A1 printer setup
-- Filament and material recommendations
-- BIQU CryoGrip Pro Glacier build plate
-- Original 3D-printable designs and modifications
-- Project files and build documentation
-- Print settings and troubleshooting
-- Equipment recommendations and purchasing links
-
-Some designs are part of my other electronics projects, while others are standalone prints.
-
-The goal is to share what I'm using, what I'm making, and what I've learned along the way.
-
-Because sometimes the difference between a working prototype and a finished project is a decent 3D-printed enclosure.
-
-**Repository:**  
-[3D Printing Workshop](https://github.com/loperkin/3D-Printing-Workshop)
-
----
-### ⚖️ Tech Guides & Comparisons
-
-Not every project starts with a soldering iron. Sometimes the hardest part is figuring out which technology is actually worth using.
-
-This repository is where I share product comparisons, buying guides, technical breakdowns, and practical recommendations.
-
-You'll find topics like:
-
-- Home Assistant Green vs Raspberry Pi vs Mini PC
-- Alarmo vs Ring Alarm vs SimpliSafe
-- Smart home hardware and ecosystem comparisons
-- Equipment recommendations and buying guides
-- Honest trade-offs, limitations, and lessons learned
-
-My goal isn't to convince you to buy the most expensive option.
-
-It's to help you understand your choices, avoid unnecessary spending, and find what works best for your situation.
-
-**Repository:**  
-[Tech Guides & Comparisons](https://github.com/loperkin/tech-guides-and-comparisons)
-
----
-
-### 🎙️ Micro Wake Word
-
-A successfully tested **Hey Lucy** micro wake-word model for local voice detection in ESPHome. This experiment is **completed and retired**; its model files and documentation remain available as a reference.
-
-**Repository:**  
-[Micro Wake Word Model](https://github.com/loperkin/micro-wake-word-model)
-
----
-
-## 🧠 The Bigger Idea
-
-I'm interested in technology, but **Purpose in Practice isn't really about technology**.
-
-It's about becoming capable.
-
-Knowing something is useful.
-
-Knowing how to **do something with it** is better.
-
-That might mean:
-
-- Soldering a circuit
-- Designing a PCB
-- Printing a part
-- Writing an automation
-- Fixing something around the house
-- Building something with your kids
-- Learning a completely new skill
-- Taking somebody else's great idea and adapting it to solve your own problem
-
-You don't have to be an expert before you start.
-
-Sometimes you learn because you started.
-
----
-
-## ⚙️ Things You'll Find Around Here
-
-```text
-ESPHome             Home Assistant
-ESP32 / ESP8266     Electronics
-Custom PCBs         3D Printing
-Sensors             Home Automation
-Automation YAML     DIY Projects
-C# / .NET           PowerShell
-SQL                 Experiments
-```
-
-Some projects will be polished.
-
-Some will be experiments.
-
-Some will probably start with:
-
-**"Well... this should work."**
-
-Those are usually the fun ones.
-
----
-
-## 🔄 How I Approach Projects
-
-My process is rarely:
-
-**Idea → Perfect Design → Finished Product**
-
-It's usually closer to:
-
-**Idea → Build → Test → Find Problem → Fix Problem → Break Something Else → Improve → Share**
-
-The first version doesn't have to be perfect.
-
-It just has to teach you enough to make the second version better.
-
----
+I work across **ESPHome, Home Assistant, ESP32/ESP8266, electronics, sensors, custom PCBs, 3D printing, automation YAML, C#/.NET, PowerShell, and SQL**.
 
 ## 📂 Open Source & Attribution
 
-I believe in sharing what I learn.
+I believe in sharing what I learn. For original work, I aim to provide practical files and instructions whenever possible. When a build depends on another person's design or open-source project, I'll identify that source and give credit. Check each repository's own documentation and license before reusing its files.
 
-When a project is my own, I'll provide the files and documentation needed to reproduce it whenever practical.
+## 🎬 Keep Learning
 
-When my work builds on someone else's open-source project, I'll make that clear and point back to the people who did the original work.
+The [PIP Builds website](https://pipbuilds.com/) connects project write-ups and guides with the code here. On [Purpose in Practice on YouTube](https://www.youtube.com/@PurposeinPracticeCh), you'll find demos, tutorials, real-world experiments, and the occasional failure along the way.
 
-Open source works because people build on ideas, improve them, and share what they learned with the next person.
-
----
-
-## 🎬 Purpose in Practice
-
-These GitHub repositories are the build files, code, documentation, and technical side of the larger **Purpose in Practice** project.
-
-You can also follow along on YouTube for project demonstrations, tutorials, experiments, and the occasional failure along the way.
-
-**YouTube:**  
-[Purpose in Practice](https://www.youtube.com/@PurposeinPracticeCh)
-
-The broader goal is simple:
-
-### Turn curiosity into capability.
-
-Learn something.
-
-Build something.
-
-Fix something.
-
-Teach somebody else what you discovered.
-
-Then find the next thing you're curious about.
-
----
+**Turn curiosity into capability.** Learn something. Build something. Share what you discovered.
 
 ### Learn it. Build it. Put it into practice.
 
